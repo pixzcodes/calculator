@@ -45,9 +45,10 @@ body{
     height: 50px;
     font-size: 2em;
     margin: 1px;
+    cursor: pointer;
 }
 
-.operator{
+.operator, .resetBtn, .equals{
     background-color: #22223B;
     color: white;
 }
